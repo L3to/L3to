@@ -10,7 +10,7 @@
 
 
 
-<img height="500" width="400" src="https://blog.funstock.com.br/wp-content/uploads/2018/06/curiosidades-sobre-o-snoopy6.gif"  align="left"> 
+<img height="400" width="300" src="https://blog.funstock.com.br/wp-content/uploads/2018/06/curiosidades-sobre-o-snoopy6.gif"  align="left"> 
 <br>
 <div align="center">
 
@@ -19,8 +19,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3to&show_icons=true&theme=tokyonight)
-
-<div align="center">
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/" />](https://www.instagram.com/leto__w/) &nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" />](https://www.linkedin.com/in/luiz-felipe-campos-da-silva-b47074269/) &nbsp;&nbsp;&nbsp;
