@@ -28,8 +28,9 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-</div>
+&nbsp;&nbsp;&nbsp;
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ojuju&size=40&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=good+grief!)](https://git.io/typing-svg)
 
 
     
