@@ -8,12 +8,10 @@
 👀 Looking forward to contribute with some open source projects and gain a better understanding of programming, while collaborating with a diverse community of developers and making meaningful contributions to the world of technology :)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<div>
-<img height="480" width="500" src="https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&url=http%3A%2F%2Fi.imgur.com%2F9wInGMd.gif"  align="center"> 
-<br>
-</div>
 <div align="center">
+<img height="480" width="500" src="https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&url=http%3A%2F%2Fi.imgur.com%2F9wInGMd.gif"> 
+
+<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eiydi72lzekaunzxyiv7n6kt7a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
