@@ -10,7 +10,7 @@
 
 
 
-<img height="400" width="300" src="https://blog.funstock.com.br/wp-content/uploads/2018/06/curiosidades-sobre-o-snoopy6.gif"  align="left"> 
+<img height="400" width="300" src="https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&url=http%3A%2F%2Fi.imgur.com%2F9wInGMd.gif"  align="left"> 
 <br>
 <div align="center">
 
