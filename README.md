@@ -3,7 +3,7 @@
 
 📒 System Development Student at [FIAP](https://www.fiap.com.br/)
 
-🖥️ Currently learning **Java** and **Python**!
+🖥️ Currently learning **JavaScript** and **Python**!
 
 👀 Looking forward to contribute with some open source projects and gain a better understanding of programming, while collaborating with a diverse community of developers and making meaningful contributions to the world of technology :)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
