@@ -10,7 +10,7 @@
 
 
 <div>
-<img height="480" width="500" src="https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&url=http%3A%2F%2Fi.imgur.com%2F9wInGMd.gif"  align="left"> 
+<img height="480" width="500" src="https://i-cdn.embed.ly/1/display?key=fd92ebbc52fc43fb98f69e50e7893c13&url=http%3A%2F%2Fi.imgur.com%2F9wInGMd.gif"  align="center"> 
 <br>
 </div>
 <div align="center">
