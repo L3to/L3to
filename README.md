@@ -13,8 +13,6 @@
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eiydi72lzekaunzxyiv7n6kt7a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3to&show_icons=true&theme=tokyonight)
