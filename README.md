@@ -21,7 +21,7 @@
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" />](https://www.linkedin.com/in/luiz-felipe-campos-da-silva-b47074269/) &nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/x/023E8B" />](https://twitter.com/Leto_w) &nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/discord" />](https://discord.com/channels/letoooooooo/) &nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoutlook" />](mailto:lf2006@hotmail.com.br)
+
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
