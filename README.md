@@ -1,4 +1,4 @@
-# Welcome to my profile! 👾
+ # Welcome to my profile! 👾
 #### Hi! My name is Luiz, I'm a young brazilian developer!
 
 📒 System Development Student at [FIAP](https://www.fiap.com.br/)
@@ -18,8 +18,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3to&show_icons=true&theme=tokyonight)
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/" />](https://www.instagram.com/leto__w/) &nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" />](https://www.linkedin.com/in/luiz-felipe-campos-da-silva-b47074269/) &nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/x/023E8B" />](https://twitter.com/Leto_w) &nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/discord" />](https://discord.com/channels/letoooooooo/) &nbsp;&nbsp;&nbsp;
 
 
