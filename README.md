@@ -17,7 +17,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3to&show_icons=true&theme=tokyonight)
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/" />](https://www.instagram.com/leto__w/) &nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/discord" />](https://discord.com/channels/letoooooooo/) &nbsp;&nbsp;&nbsp;
 
 
