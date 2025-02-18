@@ -2,8 +2,8 @@
 #### Hi! My name is Luiz, I'm a young brazilian developer!
 
 📒 System Development Student at [FIAP](https://www.fiap.com.br/)
-
-🖥️ Currently learning **JavaScript** and **Python**!
+🍔 Data Intern at [Ifood](https://www.ifood.com.br/?srsltid=AfmBOooDqCgFRPzUlGK8zAsYPMViJijTR5RhFeeXMTrnyC6WfzY5Tqlr)
+🖥️ Currently expanding my skills in **Machine Learning**, **Cloud Computing**, and **Python** optimization!!
 
 👀 Looking forward to contribute with some open source projects and gain a better understanding of programming, while collaborating with a diverse community of developers and making meaningful contributions to the world of technology :)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -22,7 +22,11 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 
 
 &nbsp;&nbsp;&nbsp;
