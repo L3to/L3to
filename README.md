@@ -2,7 +2,7 @@
 #### Hi! My name is Luiz, I'm a young brazilian developer!
 
 📒 System Development Student at [FIAP](https://www.fiap.com.br/)
-🍔 Data Intern at [Ifood](https://www.ifood.com.br/?srsltid=AfmBOooDqCgFRPzUlGK8zAsYPMViJijTR5RhFeeXMTrnyC6WfzY5Tqlr)
+🍔 Data Intern at [IFood](https://www.ifood.com.br/?srsltid=AfmBOooDqCgFRPzUlGK8zAsYPMViJijTR5RhFeeXMTrnyC6WfzY5Tqlr)
 🖥️ Currently expanding my skills in **Machine Learning**, **Cloud Computing**, and **Python** optimization!!
 
 👀 Looking forward to contribute with some open source projects and gain a better understanding of programming, while collaborating with a diverse community of developers and making meaningful contributions to the world of technology :)
