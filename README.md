@@ -11,9 +11,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img height="480" width="700" src="https://capricho.abril.com.br/wp-content/uploads/2018/06/giphy-45.gif"> 
+<img height="480" width="800" src="https://capricho.abril.com.br/wp-content/uploads/2018/06/giphy-45.gif"> 
 
-<br>
+&nbsp;&nbsp;&nbsp;
 
 
 
